@@ -1,1 +1,3 @@
-Getting a hang of the Git thing for now. I am Courageous
+Getting a hang of the Git thing for now. I am Courageous.
+
+This is the new world
